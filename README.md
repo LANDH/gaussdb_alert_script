@@ -12,5 +12,5 @@
 ![image](https://github.com/LANDH/gaussdb_alert_script/assets/22723905/4198a36b-78df-4c36-81c1-fbabaf6f3055)
 
 #脚本编写调试不易，还请各位看官交个朋友，打个赏~
-![7e861dd982008cb63481c875a0cac4b](https://github.com/LANDH/gaussdb_alert_script/assets/22723905/73e6f310-c302-4c6a-93af-2188dcc4e4fc)
-![f9ca1cb80f12774bac9a69ff7542ecc](https://github.com/LANDH/gaussdb_alert_script/assets/22723905/a22a29a9-f831-4740-845b-ec4f2f27ba63)
+![7e861dd982008cb63481c875a0cac4b](https://github.com/LANDH/gaussdb_alert_script/assets/22723905/dbc07cf7-7917-4fa9-9b6a-19b1416eb73e)
+![f9ca1cb80f12774bac9a69ff7542ecc](https://github.com/LANDH/gaussdb_alert_script/assets/22723905/6608b317-cee4-474c-acac-eaed909986d7)
