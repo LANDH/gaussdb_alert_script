@@ -9,7 +9,7 @@
 #使用python3版本执行
 
 #配额screen后台运行程序
-python3.7  gaussdb_alert_script.py
+python3.7  alert_syslog.py
 
 ![image](https://github.com/LANDH/gaussdb_alert_script/assets/22723905/79687e01-ed2d-4605-ab4b-60fcd518fa57)
 ![image](https://github.com/LANDH/gaussdb_alert_script/assets/22723905/4198a36b-78df-4c36-81c1-fbabaf6f3055)
